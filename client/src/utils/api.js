@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: "https://kamla-portfolio26.onrender.com/api",
+  baseURL: "https://kamla-portfolio26.onrender.com/api/contact",
 });
 
 
